@@ -145,8 +145,8 @@ const IndexPage = () => {
         <br /><br />
         <span style={headingAccentStyles}>抱歉！巴比游猎网站正在建设中! ⚠⚠⚠</span>
       </h1>
-   
-    </main>
+    
+    </main> 
   )
 }
 
